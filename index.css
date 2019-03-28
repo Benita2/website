@@ -30,3 +30,19 @@ h1 {
   ol.d {
     list-style-type: lower-alpha;
   }
+
+  button{
+    background-color: blueviolet;
+    font-size: 30px;
+  }
+
+  body {
+   background:"OurWorld.png"
+  }
+
+  .colorviolet {
+  color: blueviolet;
+  }
+  body {
+    background-image: url("Cycle.gif.png")
+  }
