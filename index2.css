@@ -1,7 +1,9 @@
 body {
-    background-color:  rgb(233, 181, 181);
+    background-color: rgb(233, 181, 181);;
   }
-  button{
+
+  button {
     background-color: whitesmoke;
     font-size: 30px;
+  }
     
